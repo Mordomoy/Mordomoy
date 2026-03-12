@@ -1,16 +1,17 @@
-## Hi there 👋
+![StantwtStanTwitterGIF](https://github.com/user-attachments/assets/d9b83a42-030d-42ef-8851-095514eec180)# Oii! Tudo bem?😔
 
-<!--
-**Mordomoy/Mordomoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub!🙁
 
-Here are some ideas to get you started:
+Sou estudante do 3º ano de Análise e Desenvolvimento de Dados!😢
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou tentando aprender a gostar de códigos.😕
+
+Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos...😞😭
+
+Tecnologias que estou aprendendo:
+- Python
+- SQL
+- Excel
+- Power BI
+
+Obrigado por visitar meu perfil!😔
