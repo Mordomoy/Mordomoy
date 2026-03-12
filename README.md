@@ -1,4 +1,4 @@
-![StantwtStanTwitterGIF](https://github.com/user-attachments/assets/d9b83a42-030d-42ef-8851-095514eec180)# Oii! Tudo bem?😔
+# Oii! Tudo bem?😔
 
 Bem-vindo(a) ao meu perfil do GitHub!🙁
 
