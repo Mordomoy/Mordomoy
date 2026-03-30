@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu perfil do GitHub!🙁
 
-Sou estudante do 3º ano de Análise e Desenvolvimento de Dados!😢
+Sou estudante do 3º ano de Desenvolvimento de Dados!😢
 
 Estou tentando aprender a gostar de códigos.😕
 
