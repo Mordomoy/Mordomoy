@@ -1,12 +1,12 @@
-# Oii! Tudo bem?😔
+# Oi! Tudo bem?
 
-Bem-vindo(a) ao meu perfil do GitHub!🙁
+Bem-vindo(a) ao meu perfil do GitHub!
 
-Sou estudante de Desenvolvimento de sistemas.😢
+Sou estudante de Desenvolvimento de sistemas e recursos humanos.
 
-Estou tentando aprender a gostar de códigos, mesmo odiando eu faço.😕
+Estou tentando aprender a gostar de códigos, mesmo odiando eles eu faço todos.
 
-Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos...😞😭
+Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos!
 
 Tecnologias que estou aprendendo:
 - Python
@@ -14,4 +14,4 @@ Tecnologias que estou aprendendo:
 - JavaScript
 - Julia
 
-Obrigado por visitar meu perfil!😔
+Obrigado por visitar meu perfil!
