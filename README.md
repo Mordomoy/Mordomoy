@@ -16,3 +16,6 @@ Tecnologias que estou aprendendo:
 - Java
 
 Obrigada por visitar meu perfil!
+<img width="498" height="284" alt="image" src="https://github.com/user-attachments/assets/a00e346d-8a61-4526-885e-5b39b41235da" />
+
+
