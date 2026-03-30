@@ -2,16 +2,16 @@
 
 Bem-vindo(a) ao meu perfil do GitHub!🙁
 
-Sou estudante do 3º ano de Desenvolvimento de Dados!😢
+Sou estudante de Desenvolvimento de sistemas.😢
 
-Estou tentando aprender a gostar de códigos.😕
+Estou tentando aprender a gostar de códigos, mesmo odiando eu faço.😕
 
 Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos...😞😭
 
 Tecnologias que estou aprendendo:
 - Python
-- SQL
-- Excel
-- Power BI
+- HTML
+- JavaScript
+- Julia
 
 Obrigado por visitar meu perfil!😔
