@@ -16,6 +16,8 @@ Tecnologias que estou aprendendo:
 - Java
 
 Obrigada por visitar meu perfil!
-https://media1.tenor.com/images/9e3e3f55b4343b1842ba9f3e4b89b857/tenor.gif?itemid=15567756
+
+<img width="498" height="284" alt="image" src="https://github.com/user-attachments/assets/4cb46a49-5791-4908-b706-58dd631a5185" />
+
 
 
