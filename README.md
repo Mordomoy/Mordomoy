@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
-Sou estudante de Desenvolvimento de sistemas.
+Infelizmente sou estudante de Desenvolvimento de sistemas.
 
 Estou tentando parar de odiar códigos, mas aparentemente é Impossível.
 
