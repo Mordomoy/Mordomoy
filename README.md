@@ -1,5 +1,4 @@
-![Oi](https://shields.io)
-
+![Oi tudo bem](https://placehold.jp?)
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
