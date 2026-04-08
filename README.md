@@ -1,5 +1,4 @@
-# [![Typing SVG](https://herokuapp.com)](https://git.io/typing-svg)
-
+#Oi, tudo bem?
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
