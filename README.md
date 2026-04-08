@@ -1,4 +1,5 @@
-# https://canva.link/7j6w08h7vbmck7g
+# <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/af54b29a-f6e3-4367-b23e-ea12d7b50982" />
+
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
