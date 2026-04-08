@@ -1,6 +1,4 @@
-#  <p align="center">
-  <code style="color: #FF007F;">Oi, tudo bem? 🌸</code>
-</p>
+![Oi](https://shields.io)
 
 
 Bem-vindo(a) ao meu perfil do GitHub!
