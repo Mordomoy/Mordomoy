@@ -1,4 +1,7 @@
-# Oi, tudo bem?
+#  <p align="center">
+  <code style="color: #FF007F;">Oi, tudo bem? 🌸</code>
+</p>
+
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
