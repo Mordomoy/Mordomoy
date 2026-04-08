@@ -1,6 +1,14 @@
-# <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/af54b29a-f6e3-4367-b23e-ea12d7b50982" />
+# <h1 align="center">
+  <span style="color:#ff69b4;">Oi, tudo bem? </span>
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;Tentando+não+odiar+código...;Mas+falhando+com+estilo+💅" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c14cb55e-8fe3-44d7-8918-d16e68611c4c" width="250">
+</p>
 Bem-vindo(a) ao meu perfil do GitHub!
 
 Infelizmente sou estudante de Desenvolvimento de sistemas.
