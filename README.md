@@ -1,4 +1,4 @@
-# ${\color{ff69b4}\text{Oi, tudo bem?}}$
+# ![Oi](https://shields.io)
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
