@@ -1,6 +1,5 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=Oii,+tudo+bem?+💖" />
-</p>
+# Oi, tudo bem?
+
 Bem-vindo(a) ao meu perfil do GitHub!
 
 Infelizmente sou estudante de Desenvolvimento de sistemas.
