@@ -1,4 +1,5 @@
-# $\color{#F1B9D5}{\boldsymbol{\text{Oi, tudo bem?}}}$ color{#F1B9D5}{\boldsymbol{\text{Oi, tudo bem?}}}$
+# $\color{#F1B9D5}{\boldsymbol{\text{Oi, tudo bem?}}}$
+color{#F1B9D5}{\boldsymbol{\text{Oi, tudo bem?}}}$
 
 
 Bem-vindo(a) ao meu perfil do GitHub!
