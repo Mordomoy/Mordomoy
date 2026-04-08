@@ -1,4 +1,5 @@
-# $\color{lightpink}{\text{Oi, tudo bem?}}$
+# <p align="center">  <img src="https://demolab.com" alt="Oi tudo bem" /> </p>
+
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
