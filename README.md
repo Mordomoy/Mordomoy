@@ -1,4 +1,4 @@
-$\color{deeppink}{\text{Oi, tudo bem?}}$
+# $\color{deeppink}{\text{Oi, tudo bem?}}$
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
