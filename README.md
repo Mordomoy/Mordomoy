@@ -1,4 +1,4 @@
-# $\color{#F1B9D5}{\mathtt{\text{Oi, tudo bem?}}}$
+# Oi, tudo bem?
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
