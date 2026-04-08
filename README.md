@@ -1,4 +1,4 @@
-# Oi! Tudo bem?
+# Oi, Tudo bem?
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
