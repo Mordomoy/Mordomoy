@@ -1,4 +1,4 @@
-![Oi tudo bem](https://placehold.jp?)
+$\color{deeppink}{\text{Oi, tudo bem?}}$
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
