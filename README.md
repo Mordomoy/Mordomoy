@@ -15,6 +15,7 @@ Tecnologias que estou aprendendo:
 - Julia
 - Java
 - SQL
+- swift
 
 Obrigada por visitar meu perfil!
 
