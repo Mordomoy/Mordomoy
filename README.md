@@ -19,6 +19,6 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 
-https://media0.giphy.com/media/12KPpBIdG8kqIg/200.gif?cid=790b76117sxjew3tbj6f3pwhh5vlkxfx0my68qfzu9bagotr&ep=v1_gifs_search&rid=200.gif&ct=g
+<img width="350" height="286" alt="image" src="https://github.com/user-attachments/assets/0811e4a3-b0ed-495e-9e0e-1798c30b4672" />
 
 
