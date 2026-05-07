@@ -19,7 +19,7 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 
-<img width="640" height="420" alt="spongebob-computer" src="https://github.com/user-attachments/assets/034d89c0-333c-4c38-a884-849983ee6c35" />
+<img width="600" height="400" alt="spongebob-computer" src="https://github.com/user-attachments/assets/034d89c0-333c-4c38-a884-849983ee6c35" />
 
 
 
