@@ -19,9 +19,7 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 
-
-![tenor (1)]<img width="350" height="286" alt="image" src="https://github.com/user-attachments/assets/f0c72914-4977-46cd-9f53-553ebec66328" />
-
+<img width="245" height="200" alt="image" src="https://github.com/user-attachments/assets/528c67d3-0c2c-4eb2-9e4e-bf760420032a" />
 
 
 
