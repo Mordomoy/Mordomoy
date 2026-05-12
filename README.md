@@ -14,7 +14,7 @@ Tecnologias que estou aprendendo:
 - JavaScript
 - Julia
 - Java
-- SQL
+  
 
 
 Obrigada por visitar meu perfil!
