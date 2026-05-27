@@ -19,7 +19,8 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 
-<img width="500" height="284" alt="haku-zabuz" src="https://github.com/user-attachments/assets/47ddfd30-3671-4b1f-96d0-0effa9de1b2a" />
+<img width="495" height="492" alt="image" src="https://github.com/user-attachments/assets/40f27e32-1fb6-42f5-9379-c3869b73df82" />
+
 
 
 
