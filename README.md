@@ -19,7 +19,7 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/e219a65f-b265-4fb5-8001-b5db2e2652a1" />
+<img width="200" height="104" alt="image" src="https://github.com/user-attachments/assets/b5b783aa-8c00-467d-a55a-ca560d8472f0" />
 
 
 
