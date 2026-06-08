@@ -13,6 +13,7 @@ Tecnologias que estou aprendendo:
 - HTML
 - JavaScript
 - Java
+- CSS
 
   
 
