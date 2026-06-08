@@ -12,8 +12,8 @@ Tecnologias que estou aprendendo:
 - Python
 - HTML
 - JavaScript
-- Julia
 - Java
+
   
 
 
