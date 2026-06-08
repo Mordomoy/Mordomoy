@@ -19,7 +19,7 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 
-<img width="500" height="257" alt="tumblr_mwzra7APvr1rpm29co1_500" src="https://github.com/user-attachments/assets/4c678e64-a58f-4517-8a7d-dc6590a262bc" />
+<img width="350" height="286" alt="image" src="https://github.com/user-attachments/assets/029a30ad-6be2-4b0b-84bf-201d9a9e44c6" />
 
 
 
