@@ -14,6 +14,7 @@ Tecnologias que estou aprendendo:
 - JavaScript
 - Java
 - CSS
+- Julia
 
   
 
