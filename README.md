@@ -8,13 +8,13 @@ Eu até que tento parar de odiar códigos, mas aparentemente é Impossível. (te
 
 Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos. (provavelmente não vai encontrar)
 
-Tecnologias que estou aprendendo:
+Tecnologias que estou aprendendo:   (aprender é uma palavra muito forte)
 - Python
 - HTML
 - JavaScript
 - Java
 - CSS
-(aprender é uma palavra muito forte)
+
 
   
 
