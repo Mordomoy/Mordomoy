@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 Infelizmente sou estudante de Desenvolvimento de sistemas.
 
-Estou tentando parar de odiar códigos, mas aparentemente é Impossível.
+Eu até que tento parar de odiar códigos, mas aparentemente é Impossível.
 
 Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos!
 
