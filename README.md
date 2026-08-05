@@ -21,6 +21,6 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 
-<img width="300" height="300" alt="crying-emoji-7" src="https://github.com/user-attachments/assets/ae030bec-a816-49cf-9643-f9bc224cbe29" />
+
 
 
