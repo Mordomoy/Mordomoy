@@ -21,7 +21,7 @@ Tecnologias que estou aprendendo:
 
 Obrigada por visitar meu perfil!
 Contato: yasminsantospsc@gmail.com (pfvr não tenha) 
-<img width="480" height="270" alt="vtInnG" src="https://github.com/user-attachments/assets/d6b8e6df-d039-4c81-a498-f65e983bec05" />
+
 
 
 
