@@ -1,12 +1,12 @@
 # Oi, tudo bem?
 
-Bem-vindo(a) ao meu perfil do GitHub!
+Bem-vindo(a) ao meu perfil do GitHub!(não queria criar esse perfil)
 
-Infelizmente sou estudante de Desenvolvimento de sistemas.
+Sou estudante de Desenvolvimento de sistemas. (infelizmente)
 
-Eu até que tento parar de odiar códigos, mas aparentemente é Impossível.
+Eu até que tento parar de odiar códigos, mas aparentemente é Impossível. (tentar não garante nada)
 
-Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos!
+Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos. (provavelmente não vai encontrar)
 
 Tecnologias que estou aprendendo:
 - Python
@@ -14,12 +14,15 @@ Tecnologias que estou aprendendo:
 - JavaScript
 - Java
 - CSS
-  
+(aprender é uma palavra muito forte)
 
   
 
 
 Obrigada por visitar meu perfil!
+Contato: yasminsantospsc@gmail.com (pfvr não tenha) 
+<img width="480" height="270" alt="vtInnG" src="https://github.com/user-attachments/assets/d6b8e6df-d039-4c81-a498-f65e983bec05" />
+
 
 
 
