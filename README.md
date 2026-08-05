@@ -1,6 +1,6 @@
 # Oi, tudo bem?
 
-Bem-vindo(a) ao meu perfil do GitHub!(não queria criar esse perfil)
+Bem-vindo(a) ao meu perfil do GitHub! (não queria criar esse perfil)
 
 Sou estudante de Desenvolvimento de sistemas. (infelizmente)
 
