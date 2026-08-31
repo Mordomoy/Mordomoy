@@ -16,7 +16,7 @@ Tecnologias que estou aprendendo:
 
 
 
-Contato: yasmin.santospsc@gmail.com (pfvr não tenha) 
+Contato: yasmin.santospsc@gmail.com 
 
 Obrigada por visitar meu perfil!
 
