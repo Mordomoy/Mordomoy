@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 Sou estudante de Desenvolvimento de sistemas.
 
-Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos. (
+Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos. 
 
 Tecnologias que estou aprendendo:
 
