@@ -1,16 +1,15 @@
 # Oi, tudo bem?
 
-Bem-vindo(a) ao meu perfil do GitHub! (não queria criar esse perfil)
+Bem-vindo(a) ao meu perfil do GitHub! 
 
-Sou estudante de Desenvolvimento de sistemas. (infelizmente)
+Sou estudante de Desenvolvimento de sistemas.
 
-Eu até que tento parar de odiar códigos, mas aparentemente é Impossível. (tentar não garante nada)
+Eu até que tento parar de odiar códigos, mas aparentemente é Impossível. 
 
-Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos. (provavelmente não vai encontrar)
+Aqui você pode encontrar alguns projetos e atividades relacionados aos meus estudos. (
 
 Tecnologias que estou aprendendo:
 
-(aprender é uma palavra muito forte)
 - Python
 - HTML
 - JavaScript
