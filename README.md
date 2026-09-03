@@ -13,7 +13,7 @@ Tecnologias que estou aprendendo:
 - JavaScript
 - Java
 - CSS
-
+- Julia
 
 
 Contato: yasmin.santospsc@gmail.com 
