@@ -20,7 +20,9 @@ Contato: yasmin.santospsc@gmail.com
 
 Obrigada por visitar meu perfil!
 
-<img width="215" height="200" alt="200 (1)" src="https://github.com/user-attachments/assets/c6215dc2-42fc-4536-ac63-19c55c1b0107" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d9c20487-83f8-4013-bc1d-86bf01475719" />
+
+
 
 
 
